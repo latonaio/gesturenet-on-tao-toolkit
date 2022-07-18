@@ -9,7 +9,7 @@ gesturenet-on-tao-toolkit は、NVIDIA TAO TOOLKIT を用いて GestureNet の A
 - TensorRT Runtime
 
 ## GestureNetについて
-GestureNet は、画像内の手のジェスチャーを分類し、カテゴリラベルを返すAIモデルです。 
+GestureNet は、画像内の手のジェスチャーを分類し、カテゴリラベルを返すAIモデルです。  
 GestureNet は、特徴抽出にResnet18を使用しています。
 
 ## 動作手順
